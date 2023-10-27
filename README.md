@@ -43,7 +43,6 @@ So while we feel all of these apps do indeed not collect any data, you should be
 32. https://apps.apple.com/in/app/universe-in-a-nutshell/id1526364758
 33. https://apps.apple.com/in/app/training-today/id1507992127
 34. https://apps.apple.com/in/app/i-love-film-vintage-filter/id1388818089
-35. https://apps.apple.com/in/app/blink-quick-memo-widget/id1182856129
 36. https://apps.apple.com/in/app/gladys/id1257526927
 37. https://apps.apple.com/in/app/hyperduck/id6444667067
 38. https://apps.apple.com/in/app/respire-mindful-breathing/id1453325751
@@ -56,7 +55,6 @@ So while we feel all of these apps do indeed not collect any data, you should be
 45. https://apps.apple.com/in/app/yoink-improved-drag-and-drop/id1260915283
 46. https://apps.apple.com/in/app/a-shell/id1473805438
 47. https://apps.apple.com/in/app/aether-poke-type-guide/id1667532230
-48. https://apps.apple.com/in/app/portal-immersive-escapes/id1436994560
 49. https://apps.apple.com/in/app/rememe-a-picture-playground/id1585300273
 50. https://apps.apple.com/in/app/rippple-for-trakt/id1309894528
 51. https://apps.apple.com/in/app/monitor-ai/id6449524153
