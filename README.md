@@ -7,6 +7,27 @@ iOS Apps which declare they don't collect any data as shown in their Privacy Nut
 This is a self-reported declaration based on Apple's [App Privacy Details](https://developer.apple.com/app-store/app-privacy-details/) (read this). We don't have a transparent way or resources to audit the apps for the declaration. 
 So while we feel all of these apps do indeed not collect any data, you should be cautious as the declaration could be entirely false. 
 
+Contributions Welcome!
+
+[Apps](https://github.com/akshaybharwani/data-not-collected-ios-apps#apps)
+- [Developer Tools](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#developer-tools)
+- [Education](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#education)
+- [Finance](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#finance)
+- [Food & Drink](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#food--drink)
+- [Graphics & Design](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#graphics--design)
+- [Health & Fitness](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#health--fitness)
+- [Lifestyle](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#lifestyle)
+- [Music](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#music)
+- [News](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#news)
+- [Photo & Video](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#photo--video)
+- [Productivity](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#productivity)
+- [Reference](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#reference)
+- [Social Networking](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#social-networking)
+- [Utilities](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#utilities)
+- [Weather](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#weather)
+
+[Games](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#games)
+
 ## Apps
 
 ### Developer Tools
