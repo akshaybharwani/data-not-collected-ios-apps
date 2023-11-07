@@ -9,6 +9,13 @@ So while we feel all of these apps do indeed not collect any data, you should be
 
 Contributions Welcome!
 
+#### Count
+
+Apps: 147
+Games: 39
+
+Total: **186**
+
 [Apps](https://github.com/akshaybharwani/data-not-collected-ios-apps#apps)
 - [Developer Tools](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#developer-tools)
 - [Education](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#education)
