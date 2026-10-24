@@ -11,10 +11,10 @@ Contributions Welcome!
 
 #### Count
 
-Apps: 147
+Apps: 148
 Games: 39
 
-Total: **186**
+Total: **187**
 
 [Apps](https://github.com/akshaybharwani/data-not-collected-ios-apps#apps)
 - [Developer Tools](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#developer-tools)
@@ -85,6 +85,7 @@ Total: **186**
 12. Fitness Totals (Paid) - https://apps.apple.com/in/app/fitness-totals/id1493350670
 13. Peak - Fitness Widgets - https://apps.apple.com/in/app/peak-fitness-widgets/id6443923491
 14. Periods Tracker - Ovulation - https://apps.apple.com/in/app/periods-tracker-ovulation/id6469783249
+15. Fia - Kegel & Period Tracker - https://apps.apple.com/us/app/fia-kegel-period-tracker/id6818289204
 ### Lifestyle
 1. CatchUp - Stay in Touch - https://apps.apple.com/in/app/catchup-stay-in-touch/id645072694
 2. Solstice - https://apps.apple.com/in/app/solstice/id1547580907
