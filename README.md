@@ -12,9 +12,9 @@ Contributions Welcome!
 #### Count
 
 Apps: 147
-Games: 39
+Games: 40
 
-Total: **186**
+Total: **187**
 
 [Apps](https://github.com/akshaybharwani/data-not-collected-ios-apps#apps)
 - [Developer Tools](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#developer-tools)
@@ -243,6 +243,7 @@ Total: **186**
 37. Bouncy Hoops - https://apps.apple.com/us/app/bouncy-hoops/id1232021752
 38. Absolute Drift (Paid) - https://apps.apple.com/us/app/absolute-drift/id1356770278
 39. LowRes Coder Collection - https://apps.apple.com/us/app/lowres-collection/id6443878760
+40. Bella and Pan (Paid) - https://apps.apple.com/us/app/bella-and-pan/id6795701835
 
 
 ### TODO
