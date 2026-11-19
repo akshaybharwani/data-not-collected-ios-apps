@@ -11,10 +11,10 @@ Contributions Welcome!
 
 #### Count
 
-Apps: 147
+Apps: 148
 Games: 39
 
-Total: **186**
+Total: **187**
 
 [Apps](https://github.com/akshaybharwani/data-not-collected-ios-apps#apps)
 - [Developer Tools](https://github.com/akshaybharwani/data-not-collected-ios-apps?tab=readme-ov-file#developer-tools)
@@ -63,6 +63,7 @@ Total: **186**
 5. Bullets - Subscription Tracker - https://apps.apple.com/in/app/bullets-subscription-tracker/id1536420851
 6. Macaw - Budget & Save Money - https://apps.apple.com/in/app/macaw-budget-save-money/id1563696035
 7. Discreit - https://apps.apple.com/in/app/discreit/id6446582126
+8. BitTool Signer - https://apps.apple.com/app/id6823781498
 ### Food & Drink
 1. Timer Coffee - https://apps.apple.com/in/app/timer-coffee/id6449322787
 2. Coffee Book - https://apps.apple.com/in/app/coffee-book/id1512681263
